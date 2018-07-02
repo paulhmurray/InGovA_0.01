@@ -1,0 +1,54 @@
+# Translation of Themes - Algibro Shop in English (UK)
+# This file is distributed under the same license as the Themes - Algibro Shop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-17 16:18:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Algibro Shop\n"
+
+#. Description of the plugin/theme
+msgid "Algibro Shop is an elegant free WordPress child theme, perfect for building an online store. Algibro Shop is ecommerce (WooCommerce) Compatible, Easy Digital Downloads, WPML, RTL, SEO Friendly and with parallax effect, full screen image is one of the best e-commerce themes."
+msgstr "Algibro Shop is an elegant, free WordPress child theme, perfect for building an online store. Algibro Shop is ecommerce (WooCommerce), Easy Digital Downloads, WPML, and RTL compatible, as well as SEO friendly, with parallax effect, and full screen images. It is one of the best ecommerce themes."
+
+#. Theme Name of the plugin/theme
+msgid "Algibro Shop"
+msgstr "Algibro Shop"
+
+#: sections/azera_shop_header_section.php:74
+#: sections/azera_shop_header_section.php:77
+#: sections/azera_shop_header_section.php:79
+msgid "Header button label:"
+msgstr "Header button label:"
+
+#: sections/azera_shop_header_section.php:8
+msgid "GET STARTED"
+msgstr "GET STARTED"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:35
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:19
+msgid "Header Logo"
+msgstr "Header Logo"
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com/"
+msgstr "http://themeisle.com/"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/algibro-shop/"
+msgstr "https://wordpress.org/themes/algibro-shop/"

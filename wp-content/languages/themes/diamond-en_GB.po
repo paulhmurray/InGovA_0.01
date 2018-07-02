@@ -1,0 +1,252 @@
+# Translation of Themes - Diamond in English (UK)
+# This file is distributed under the same license as the Themes - Diamond package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 07:34:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Diamond\n"
+
+#. Description of the plugin/theme
+msgid "Created by <a href=\"http://www.eightpixeldesign.com\" target=\"_blank\">EightPixelDesign</a>, Diamond is a modern Magazine Theme for a local news or any other content focused website. The magazine-styled homepage is built with WordPress core features like Customizer and Widgets, which makes the setup super fast, flexible and easy. The theme comes with a beautiful Featured Content area and responsive design, looking great on every device."
+msgstr "Created by <a href=\"http://www.eightpixeldesign.com\" target=\"_blank\">EightPixelDesign</a>, Diamond is a modern Magazine Theme for a local news or any other content-focused website. The magazine-styled homepage is built with WordPress core features like Customiser and Widgets, which makes the setup super fast, flexible and easy. The theme comes with a beautiful Featured Content area and responsive design, looking great on every device."
+
+#. Theme Name of the plugin/theme
+msgid "Diamond"
+msgstr "Diamond"
+
+#: sidebar.php:34
+msgid "Diamond WordPress Theme by EightPixelDesign"
+msgstr "Diamond WordPress Theme by EightPixelDesign"
+
+#: inc/customizer.php:5
+msgid "Change Footer Text"
+msgstr "Change Footer Text"
+
+#: functions.php:288
+msgid "Diamond Documentation"
+msgstr "Diamond Documentation"
+
+#: functions.php:288
+msgid "http://www.mhthemes.com/support/documentation-diamond/"
+msgstr "http://www.mhthemes.com/support/documentation-diamond/"
+
+#. #-#-#-#-#  diamond.pot (Diamond 1.2.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: sidebar.php:34
+msgid "http://www.eightpixeldesign.com/"
+msgstr "http://www.eightpixeldesign.com/"
+
+#: search.php:16
+msgid "%s"
+msgstr "%s"
+
+#: search.php:15
+msgid "Search Results for: "
+msgstr "Search Results for: "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:236
+msgid "Continue reading %s"
+msgstr "Continue reading %s"
+
+#: inc/template-tags.php:121
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:121
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:121
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:112
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Full size"
+
+#: inc/template-tags.php:101
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/template-tags.php:93
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Categories"
+
+#: inc/template-tags.php:90 inc/template-tags.php:98
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:84
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Author"
+
+#: inc/template-tags.php:75
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Posted on"
+
+#: inc/template-tags.php:54
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:48
+msgid "Featured"
+msgstr "Featured"
+
+#: inc/template-tags.php:29
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: inc/template-tags.php:25
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: inc/template-tags.php:22
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: inc/back-compat.php:36 inc/back-compat.php:46 inc/back-compat.php:59
+msgid "Diamond requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "Diamond requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+
+#: image.php:83
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+
+#: image.php:58
+msgid "Pages:"
+msgstr "Pages:"
+
+#: image.php:23
+msgid "Next Image"
+msgstr "Next Image"
+
+#: image.php:23
+msgid "Previous Image"
+msgstr "Previous Image"
+
+#: header.php:44
+msgid "Menu and widgets"
+msgstr "Menu and widgets"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:211
+msgid "collapse child menu"
+msgstr "collapse child menu"
+
+#: functions.php:210
+msgid "expand child menu"
+msgstr "expand child menu"
+
+#: functions.php:141
+msgid "Widget right"
+msgstr "Widget right"
+
+#: functions.php:134 functions.php:143
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Add widgets here to appear in your sidebar."
+
+#: functions.php:132
+msgid "Widget Area"
+msgstr "Widget Area"
+
+#: functions.php:95
+msgid "Header Menu"
+msgstr "Header Menu"
+
+#: functions.php:94
+msgid "Sidebar Menu"
+msgstr "Sidebar Menu"
+
+#: content-page.php:23 content-search.php:23 content.php:23 image.php:70
+msgid "Edit"
+msgstr "Edit"
+
+#: content-page.php:22 content-search.php:22 content.php:22 page.php:32
+#: single.php:32
+msgid "In"
+msgstr "In"
+
+#: content-page.php:22 content-search.php:22 content.php:22 page.php:32
+msgid "%"
+msgstr "%"
+
+#: content-page.php:22 content-search.php:22 content.php:22 page.php:32
+msgid "1"
+msgstr "1"
+
+#: content-page.php:22 content-search.php:22 content.php:22 page.php:32
+msgid "0"
+msgstr "0"
+
+#: content-page.php:22 content-search.php:22 content.php:22 page.php:32
+#: single.php:32
+msgid "by"
+msgstr "by"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: author-bio.php:33 author-presentation.php:15
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: author-bio.php:11
+msgid "Published by"
+msgstr "Published by"
+
+#: archive.php:60 image.php:62 index.php:43 search.php:53
+msgid "Page"
+msgstr "Page"
+
+#: 404.php:26 content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: 404.php:21 content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: 404.php:17 content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author of the plugin/theme
+msgid "EightPixelDesign"
+msgstr "EightPixelDesign"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.eightpixeldesign.com/diamond-pro/"
+msgstr "http://www.eightpixeldesign.com/diamond-pro/"
