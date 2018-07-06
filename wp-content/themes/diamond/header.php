@@ -34,7 +34,7 @@
 
                         </div>
                     </div>
-                <?php } else { 
+                <?php } else {
                 $description = get_bloginfo( 'description', 'display' );
                 ?>
                 <h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
@@ -46,9 +46,9 @@
 		</header><!-- .site-header -->
 		<?php get_sidebar(); ?>
 	</div><!-- .sidebar -->
-	
+
 	<div id="content" class="site-content">
-            <?php if ( has_nav_menu( 'second' ) ) : ?>        
+            <?php if ( has_nav_menu( 'second' ) ) : ?>
                     <nav id="main-menu">
                         <?php wp_nav_menu( array( 'theme_location' => 'second', 'container_id' => 'menu-principale-container', 'menu_class' => 'active' ) ); ?>
                     </nav>
