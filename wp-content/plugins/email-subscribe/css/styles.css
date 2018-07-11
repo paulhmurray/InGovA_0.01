@@ -1,0 +1,140 @@
+.error_admin_massemail{
+ color:red;
+ font-size:10px;
+
+} 
+
+ #succMsg{
+     background:#FFFFE0;
+     border: 1px solid #9ADF8F;
+     color:#556652 !important;
+     width:100% !important;
+     padding:8px 8px 8px 36px;
+     text-align:left;
+     margin:2px;
+     margin-left: 0px;
+     margin-top: 30px;
+     width:70% !important;
+}
+#errMsg{
+
+     background:#FFCECE;
+     border: 1px solid #DF8F8F;
+     color:#665252 !important;
+     width:100% !important;
+     padding:8px 8px 8px 36px; 
+     text-align:left;
+     margin:5px;
+     margin-left: 0px;
+     margin-top: 30px;
+     width:70% !important;
+     
+}   
+ .pagination {
+    clear:both;
+    padding:20px 0;
+    position:relative;
+    font-size:11px;
+    line-height:13px;
+    }
+     
+    .pagination span, .pagination a {
+    display:block;
+    float:left;
+    margin: 2px 2px 2px 0;
+    padding:6px 9px 5px 9px;
+    text-decoration:none;
+    width:auto;
+    color:#fff;
+    background: #555;
+    }
+     
+    .pagination a:hover{
+    color:#fff;
+    background: #3279BB;
+    }
+     
+    .pagination .current{
+    padding:6px 9px 5px 9px;
+    background: #3279BB;
+    color:#fff;
+    } 
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen  and (min-device-width : 320px)  and (max-device-width : 480px) {
+.form-list .label{ width:50%;}
+.form-list .value{width: 50%;}
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen  and (min-width : 321px) {
+    .form-list .label{ width:50%;}
+    .form-list .value{width: 50%;}
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen  and (max-width : 320px) {
+.form-list .label{ width:50%;}
+.form-list .value{width: 50%;}
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+ .form-list .label{ width:50%;}
+.form-list .value{width: 50%;}
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+  .form-list .label{ width:50%;}
+  .form-list .value{width: 50%;}
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+ .form-list .label{ width:50%;}
+.form-list .value{width: 50%;}
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (min-width : 1224px) {
+    .form-list .label{ width:30%;}
+  .form-list .value{width: 70%;}
+}
+
+/* Large screens ----------- */
+@media only screen and (min-width : 1824px) {
+  .form-list .label{ width:30%;}
+  .form-list .value{width: 70%;}
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5),only screen and (min-device-pixel-ratio : 1.5) {
+     .form-list .label{ width:50%;}
+    .form-list .value{width: 50%;}
+}
+.form-list .label{border-bottom:1px solid #ccc; }
+.form-list .value{border-bottom:1px solid #ccc; }
+.form-list .value input{max-width: 230px;float: left;}
+.form-list .label label{float: left;margin-left: 10px;}
+#gridTbl{width: 100%;}
+.table{width:100%;margin-bottom:18px;}.table th,.table td{padding:8px;line-height:18px;text-align:left;vertical-align:top;border-top:1px solid #E1E1E1}
+.table th{font-weight:bold;}
+.table thead th{vertical-align:bottom;}
+.table thead:first-child tr th,.table thead:first-child tr td{border-top:0;}
+.table tbody+tbody{border-top:2px solid #ddd;}
+.table-condensed th,.table-condensed td{padding:4px 5px;background-color: #ffffff;}
+.table-bordered{border:1px solid #ddd;border-collapse:separate;*border-collapse:collapsed;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;}.table-bordered th+th,.table-bordered td+td,.table-bordered th+td,.table-bordered td+th{border-left:1px solid #E1E1E1;background-color: #ffffff;}
+.table-bordered thead:first-child tr:first-child th,.table-bordered tbody:first-child tr:first-child th,.table-bordered tbody:first-child tr:first-child td{border-top:0;}
+.table-bordered thead:first-child tr:first-child th:first-child,.table-bordered tbody:first-child tr:first-child td:first-child{-webkit-border-radius:4px 0 0 0;-moz-border-radius:4px 0 0 0;border-radius:4px 0 0 0;}
+.table-bordered thead:first-child tr:first-child th:last-child,.table-bordered tbody:first-child tr:first-child td:last-child{-webkit-border-radius:0 4px 0 0;-moz-border-radius:0 4px 0 0;border-radius:0 4px 0 0;}
+.table-bordered thead:last-child tr:last-child th:first-child,.table-bordered tbody:last-child tr:last-child td:first-child{-webkit-border-radius:0 0 0 4px;-moz-border-radius:0 0 0 4px;border-radius:0 0 0 4px;}
+.table-bordered thead:last-child tr:last-child th:last-child,.table-bordered tbody:last-child tr:last-child td:last-child{-webkit-border-radius:0 0 4px 0;-moz-border-radius:0 0 4px 0;border-radius:0 0 4px 0;}
+.table-striped tbody tr:nth-child(odd) td,.table-striped tbody tr:nth-child(odd) th{background-color:#f9f9f9;}
+.table tbody tr:hover td,.table tbody tr:hover th{background-color:#f5f5f5;}
+.alignCenter{text-align: center;}
+.image_error{color:red;}
+.succMsg{background:#E2F3DA ;border: 1px solid #9ADF8F;color:#556652 !important;padding:8px 8px 8px 36px;text-align:left;margin:5px;margin-left: 0px;margin-top: 30px;width:505px !important;}
+.errMsg{background:#FFCECE ;border: 1px solid #DF8F8F;color:#665252 !important;padding:8px 8px 8px 36px; text-align:left;margin:5px;margin-left: 0px;margin-top: 30px;width:505px !important;}
+.printCode{background: lightYellow none repeat scroll 0 0 !important;border: 1px inset orange !important;height: 36px !important;margin: 10px !important;overflow: auto !important;padding: 6px !important;text-align: left !important;color: black !important;width:auto !important;}

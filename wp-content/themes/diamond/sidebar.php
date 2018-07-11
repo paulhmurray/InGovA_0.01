@@ -30,13 +30,7 @@ if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) || is_active_sidebar(
                     <?php
                         do_action( 'diamond_credits' );
                     ?>
-                    <?php if( get_theme_mod( 'copyright_textbox' ) == '') { ?>
-                    	<a href="<?php echo esc_url( __( 'http://www.eightpixeldesign.com/', 'diamond' ) ); ?>" rel="nofollow"><?php esc_html_e( 'Diamond WordPress Theme by EightPixelDesign', 'diamond' ); ?></a>
-                    <?php }
-                    else {
-                        $footercopyright = get_theme_mod( 'copyright_textbox' );
-                        echo esc_html( $footercopyright );
-                    } ?>
+                    <!--removed signature-->
                 </div><!-- .site-info -->
             </footer><!-- .site-footer -->
 
