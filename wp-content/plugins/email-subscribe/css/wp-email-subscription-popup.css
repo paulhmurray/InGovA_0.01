@@ -1,0 +1,238 @@
+div.container_n span.modal-close {position: absolute !important;top: -13px !important;right: -14px !important;width: 35px !important;height: 35px !important;background: url(../images/close-buttons-sprite.png) no-repeat !important;}
+div.container_n span.modal-close span {display: none }
+div.container_n span.modal-close.left {top: -13px !important;left: -13px !important;}
+div.container_n span.modal-close:hover {background-position: 0 -37px !important;cursor: pointer !important;}
+div.container_n span.modal-close.black {background-position: -35px 0 !important;}
+div.container_n span.modal-close.black:hover {background-position: -35px -36px !important;}
+.overlay{position:fixed !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important;z-index:100001 !important;background-color:#000000 !important;opacity:0.5 !important;text-align: center !important;margin-right: auto !important; margin-left: auto !important;margin: 0 !important;padding: 0 !important; filter: alpha(opacity = 50) !important;display: none }
+#formFormEmail{}
+
+
+
+.container_n {
+
+    /*max-width: 350px !important;*/
+    margin: 0 auto !important;
+}
+
+#newsletter_signup {
+    padding: 0px 25px 25px !important;
+    background: #fff !important;
+  /*  box-shadow:
+        0px 0px 0px 5px rgba( 255,255,255,0.4 ),
+        0px 4px 20px rgba( 0,0,0,0.33 ) !important;
+    -moz-border-radius: 5px !important;
+    -webkit-border-radius: 5px !important;
+    border-radius: 5px !important;*/
+    display: table !important;
+
+}
+
+#newsletter_signup .header {
+    margin-top: 10px !important;
+    margin-bottom: 20px !important;
+}
+
+#newsletter_signup .header .subheading{
+    margin-top: 9px !important;
+    max-width:350px !important;
+    font-size: 13px !important;
+
+}
+
+#newsletter_signup .header h3 {
+    color: #333333 !important;
+    font-size: 24px !important;
+    font-weight: bold !important;
+    margin-bottom: 5px !important;
+    background:none !important;
+    background-color: none !important;
+    background-image: none !important;
+    border: none !important;
+    color: none !important;
+    padding:0px !important;
+
+}
+
+#newsletter_signup .header p {
+    color: #8f8f8f !important;
+    line-height 1 !important;
+    font-size: 14px !important;
+    font-weight: 300 !important;
+    background:none !important;
+    background-color: none !important;
+    background-image: none !important;
+    border: none !important;
+    color: none !important;
+    padding:0px !important;
+}
+
+#newsletter_signup .sep {
+    height: 1px;
+    background: #e8e8e8 !important;
+    max-width: 350px !important;
+    background-color: none !important;
+    background-image: none !important;
+    border: none !important;
+    color: none !important;
+    padding:0px !important;
+
+}
+
+#newsletter_signup .inputs {
+    margin-top: 25px !important;
+    background:none !important;
+    background-color: none !important;
+    background-image: none !important;
+    border: none !important;
+    color: none !important;
+    padding:0px !important;
+}
+
+
+
+#newsletter_signup .textfield{
+    background: #f5f5f5 !important;
+    font-size: 14px !important;
+    -moz-border-radius: 3px !important;
+    -webkit-border-radius: 3px !important;
+    border-radius: 3px !important;
+    border: none !important;
+    padding: 13px 10px !important;
+    width: 95% !important;
+    box-shadow: inset 0px 2px 3px rgba( 0,0,0,0.1 ) !important;
+    clear: both !important;
+    color:#8F8F8F !important;
+    margin: 0px !important;
+    box-sizing:content-box;
+
+}
+
+#newsletter_signup .textfield:focus {
+    background: #fff !important;
+    box-shadow: 0px 0px 0px 3px #fff38e, inset 0px 2px 3px rgba( 0,0,0,0.2 ), 0px 5px 5px rgba( 0,0,0,0.15 ) !important;
+    outline: none !important;
+    background: #f5f5f5\9 !important;
+    color:#000000 !important;
+    margin: 0px !important;
+
+}
+
+
+#newsletter_signup .inputs #submit_newsletter {
+    cursor: pointer !important;
+    text-decoration: none !important;
+    width: 100% !important;
+    margin-top: 20px !important;
+    padding: 15px 0 !important;
+    color: #fff !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    letter-spacing: 1px !important;
+    text-align: center !important;
+    text-decoration: none !important;
+        background: -moz-linear-gradient(
+        top,
+        #b9c5dd 0%,
+        #a4b0cb) !important;
+    background: -webkit-gradient(
+        linear, left top, left bottom,
+        from(#b9c5dd),
+        to(#a4b0cb)) !important;
+    -moz-border-radius: 5px !important;
+    -webkit-border-radius: 5px !important;
+    border-radius: 5px !important;
+    border: 1px solid #737b8d !important;
+    -moz-box-shadow:
+        0px 5px 5px rgba(000,000,000,0.1),
+        inset 0px 1px 0px rgba(255,255,255,0.5) !important;
+    -webkit-box-shadow:
+        0px 5px 5px rgba(000,000,000,0.1),
+        inset 0px 1px 0px rgba(255,255,255,0.5) !important;
+    box-shadow:
+        0px 5px 5px rgba(000,000,000,0.1),
+        inset 0px 1px 0px rgba(255,255,255,0.5) !important;
+    text-shadow:
+        0px 1px 3px rgba(000,000,000,0.3),
+        0px 0px 0px rgba(255,255,255,0) !important;
+    display: table !important;
+    position: static !important;
+    clear: both !important;
+    /* Newer Browsers */
+    background: linear-gradient(top, #b9c5dd, #a4b0cb) !important;
+
+    /* IE5.5 - IE7 */
+    filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#b9c5dd,EndColorStr=#a4b0cb) !important;
+
+    /* IE8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#b9c5dd,EndColorStr=#a4b0cb)" !important;
+
+
+    /* Opera 11.10+ */
+    background: -o-linear-gradient(top, #b9c5dd,#a4b0cb) !important;
+
+
+}
+
+#newsletter_signup .inputs #submit_newsletter:hover {
+    cursor: pointer;
+    background: -moz-linear-gradient(
+        top,
+        #a4b0cb 0%,
+        #b9c5dd) !important;
+    background: -webkit-gradient(
+        linear, left top, left bottom,
+        from(#a4b0cb),
+        to(#b9c5dd)) !important;
+
+     /* Newer Browsers */
+    background: linear-gradient(top, #a4b0cb, #b9c5dd) !important;
+
+    /* IE5.5 - IE7 */
+    filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#a4b0cb,EndColorStr=#b9c5dd) !important;
+
+    /* IE8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#a4b0cb,EndColorStr=#b9c5dd)" !important;
+
+    /* Opera 11.10+ */
+    background: -o-linear-gradient(top, #b9c5dd,#a4b0cb) !important;
+}
+.image_error{color:red !important;font-size: 12px !important;font-weight: 300 !important;letter-spacing: 1px !important;margin-bottom: 7px !important;display: block !important;margin-top: 4px !important;}
+.errorinput{margin-bottom: 17px !important;}
+.errorinput_widget{}
+.mysuccess_msg,.myerror_msg{border: 1px solid !important;margin: 10px 0px !important;padding:6px 6px 6px 40px !important;background-repeat: no-repeat !important;background-position: 10px center !important;}
+.mysuccess_msg {color: #4F8A10 !important;background-color:#ffffe0 !important;border-radius:3px;display:none ;border-color: #e6db55 !important;background-image:url('../images/1378845314_001_06.gif') !important}
+.myerror_msg {color: #D8000C !important;background-color: #FFBABA !important;border-radius:3px !important;display: none ;background-image:url('../images/1378845578_Error.png') !important}
+.AjaxLoader{margin: 10px 0px !important;padding:6px 6px 6px 40px !important;display:none ;font-weight: bold !important;vertical-align: middle !important;}
+.AjaxLoader img{padding-right: 10px !important;margin-top: -7px !important;vertical-align: middle !important;padding-right: 10px !important;}
+
+.ajaxLoaderWidget{margin: 10px 0px !important;padding:6px 6px 6px 40px !important;display:none ;font-weight: bold !important;vertical-align: middle !important;}
+.ajaxLoaderWidget img{padding-right: 10px !important;margin-top: -7px !important;vertical-align: middle !important;padding-right: 10px !important;}
+.ajaxLoaderWidget img{border-radius:0px !important;box-shadow:none !important;}
+
+.Nknewsletter-widget{ margin: 0 auto;}
+.Nknewsletter_description{margin: 0 0 28px;padding: 0;font-weight: 300;line-height: 1.625;}
+.Nknewsletter_name{
+      border: 1px solid #ccc;
+    border-radius: 3px;
+    font-family: inherit;
+    padding: 10px;
+    width: 100% !important;
+}
+.Nknewsletter_email{
+      border: 1px solid #ccc;
+    border-radius: 3px;
+    font-family: inherit;
+    padding: 10px;
+    width: 100% !important;
+}
+.Nknewsletter_space{clear:both;margin-bottom: 20px}
+.Nknewsletter_space_submit{ /*max-width: 247px;*/min-width: 150px;padding: 10px;width: 100%;}
+.Nksnewsletter_text_align_left{text-align: left}
+#chkagreeornot{vertical-align:middle}
+.agree_term{vertical-align:middle}
+.agree_term a{text-decoration:underline}
+
+.nk_newsletter_agree{vertical-align:middle}
+.nk_newsletter_agree{vertical-align:middle}
+.nk_newsletter_agree a{text-decoration:underline}
