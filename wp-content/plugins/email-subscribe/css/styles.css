@@ -2,7 +2,7 @@
  color:red;
  font-size:10px;
 
-} 
+}
 
  #succMsg{
      background:#FFFFE0;
@@ -22,14 +22,14 @@
      border: 1px solid #DF8F8F;
      color:#665252 !important;
      width:100% !important;
-     padding:8px 8px 8px 36px; 
+     padding:8px 8px 8px 36px;
      text-align:left;
      margin:5px;
      margin-left: 0px;
      margin-top: 30px;
      width:70% !important;
-     
-}   
+
+}
  .pagination {
     clear:both;
     padding:20px 0;
@@ -37,7 +37,7 @@
     font-size:11px;
     line-height:13px;
     }
-     
+
     .pagination span, .pagination a {
     display:block;
     float:left;
@@ -48,17 +48,17 @@
     color:#fff;
     background: #555;
     }
-     
+
     .pagination a:hover{
     color:#fff;
     background: #3279BB;
     }
-     
+
     .pagination .current{
     padding:6px 9px 5px 9px;
     background: #3279BB;
     color:#fff;
-    } 
+    }
 
 
 /* Smartphones (portrait and landscape) ----------- */

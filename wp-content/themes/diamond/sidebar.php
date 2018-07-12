@@ -27,9 +27,6 @@ if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) || is_active_sidebar(
 		<?php endif; ?>
             <footer id="colophon" class="site-footer" role="contentinfo">
                 <div class="site-info">
-                    <?php
-                        do_action( 'diamond_credits' );
-                    ?>
                     <!--removed signature-->
                 </div><!-- .site-info -->
             </footer><!-- .site-footer -->
